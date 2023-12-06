@@ -1,7 +1,7 @@
 ## Botton_App_Bar
 Implement an application bottom bar following the official documentation of the Kotlin programming language and it is very interesting how this bottom bar makes the application more dynamic, versatile and with so many functionalities and this is a way to implement and style it it. 
 
-## Tecnologias
+## Tecnologies
 * Kotlin
 * Coordinator Layout
 * LinearLayout
@@ -9,10 +9,10 @@ Implement an application bottom bar following the official documentation of the 
     - TextView
     - EditText
     - Button
-    - Loatin Action Button
-Container
-Navigation icon (optional)
-Floating action button (FAB) (optional)
+    - Float Action Button
+*Container
+*Navigation icon
+*Floating action button (FAB) 
 
 
 ## Author
